@@ -2,7 +2,6 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me discord A-10 Warthog#2659
 
 <!---
 ArnasAtk/ArnasAtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
